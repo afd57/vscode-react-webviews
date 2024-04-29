@@ -1,3 +1,5 @@
+SRC: https://medium.com/snowflake/how-to-build-a-vs-code-extension-using-react-webviews-0e2481ce1ba2
+
 ## Overview
 
 This repo contains the boilerplate needed to quickly get your own VS Code Extension up and running using React Webviews.
